@@ -21,9 +21,10 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts start",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+    "install": "install --legacy-peer-deps
   },
   "eslintConfig": {
     "extends": [
