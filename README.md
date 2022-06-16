@@ -9,7 +9,9 @@ An Admin Dashboard WebApp built with CRUD functionalities using React.
 
 ### `npm install`
 
-#### I recommend running the command `npm install --legacy-peer-deps` but the above should suffice
+#### I recommend running the command 
+`npm install --legacy-peer-deps` 
+but the above should suffice
 
 ## How to run app
 
