@@ -3,7 +3,7 @@
 
 An Admin Dashboard WebApp built with CRUD functionalities using React.
 
-![a](imgur.com/U5HE3YK)
+![a](https://www.imgur.com/U5HE3YK)
 
 ![a](imgur.com/LNPnKlb)
 
