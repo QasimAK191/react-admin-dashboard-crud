@@ -3,7 +3,7 @@
 
 An Admin Dashboard WebApp built with CRUD functionalities using React.
 
-![-](demo_imgs/ecomm_fp.jpg)
+![-](demo_imgs/ecomm_fp.JPG)
 
 ![-](demo_imgs/ecomm_cal.jpg)
 
